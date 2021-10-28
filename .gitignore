@@ -1,0 +1,15 @@
+__pycache__
+.idea
+.vscode
+.cache
+build/*
+dist/*
+mlpipe_trainer.egg-info
+**/*/config.ini
+**/*.log
+dump.rdb
+
+# tests
+.coverage
+.cache
+.pytest_cache
